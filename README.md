@@ -1,8 +1,39 @@
-## Bot de twitter com tema de animais, objetivo vai ser ficar dando rt em foto de bixinho fofo.
+# Bot de Twitter com Tema de Animais 🐾
 
-Chaves de api protegidas com dotenv
+Um bot de Twitter com o objetivo de a espalhar alegria por fotos de animais através de retweets, likes, etc.
 
-estado atual:
-por enquanto só ta fazendo autenticação
+## Estado Atual 🚀
 
-- lembrar de fazer o requirements.txt
+Atualmente, o bot está configurado apenas para autenticação. Estamos trabalhando para torná-lo totalmente funcional em breve!
+
+## Configuração com Chaves de API Protegidas
+
+Para proteger as chaves de API do bot, é utilizado o pacote `python-dotenv`. Abaixo seguem instruções para configurar o ambiente virtual e ativar as variáveis de ambiente:
+
+### Criar o Ambiente Virtual
+
+```shell
+python3 -m venv bot_env
+```
+
+### Pra ativar o Ambiente Virtual
+
+No windows:
+
+```shell
+bot_env\Scripts\activate
+```
+
+No linux:
+
+```shell
+source bot_env/bin/activate
+```
+
+### Instalação de dependências
+
+```shell
+pip install -r requirements.txt
+```
+
+Agora é só criar um /env no repositório raíz e colocar nas variáveis de ambiente as keys do bot.
