@@ -4,7 +4,7 @@ Um bot de Twitter com o objetivo de a espalhar alegria por fotos de animais atra
 
 ## Estado Atual 🚀
 
-Atualmente, o bot está configurado apenas para autenticação. Estamos trabalhando para torná-lo totalmente funcional em breve!
+Atualmente, o bot está configurado apenas para autenticação. Estou trabalhando para torná-lo totalmente funcional em breve!
 
 ## Configuração com Chaves de API Protegidas
 
