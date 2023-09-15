@@ -36,4 +36,4 @@ source bot_env/bin/activate
 pip install -r requirements.txt
 ```
 
-Agora é só criar um /env no repositório raíz e colocar nas variáveis de ambiente as keys do bot.
+Agora é só criar um .env no repositório raíz e colocar nas variáveis de ambiente as keys do bot.
